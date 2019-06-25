@@ -1,0 +1,22 @@
+.navbar-brand {
+color: #03bb03 !important;
+/* color: rgb(181, 232, 83) !important; */
+}
+
+h1, h2, h3, h4, h5, h6, pre, .nav-link.active, .nav-tabs>li>a:focus {
+color: #03bb03 !important;
+}
+
+#user-settings-form hr, #base-navbars hr {
+border-bottom: 1px dashed #03bb03;
+color: #03bb03;
+}
+
+.form-control:focus {
+border: 1px solid #03bb03 !important;
+}
+
+.container a, td a, .challenge-desc > p a {
+color: #7ABAE2;
+text-shadow: none !important;
+}
